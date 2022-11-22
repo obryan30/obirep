@@ -1,6 +1,7 @@
 #!/bin/bash
 #This script will be used to add new users and grant them password
 #Author: Obinna Bryan.
+#Copyright C protected.
 #Date: 21/11/2022.
 echo "Welcome to the new user management platform"
 echo "Step 1"
