@@ -5,3 +5,4 @@ do
 echo $a
 done
 echo "For loop ends"
+echo "Thanks"
