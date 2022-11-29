@@ -1,6 +1,7 @@
 #!/bin/bash
 #This script will be used to give permission to students to enter DevOPs class"
 #Nov 28, 2022
+#By Obinna Bryan
 echo "Please enter your name"
 read name
 echo "$name, please enter the amount you have paid so far"
