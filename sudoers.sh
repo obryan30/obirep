@@ -1,6 +1,7 @@
 #!/bin/bash
 #This script will grant full sudoers right to users in the linux server.
 #This script will work for RedHat and centos servers
+#By Obinna Bryan.
 echo "Please enter the name of the user you are granting the sudo right"
 read name
 #Verify if the user exist in the server
